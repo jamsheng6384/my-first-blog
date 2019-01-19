@@ -25,7 +25,7 @@ SECRET_KEY = 'bvs3d#pn4ukb8iorc-5vlx#m_sx1r_u0v*6j-w2)dkbk&r6+8*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonaywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '*.pythonaywhere.com']
 
 
 # Application definition
